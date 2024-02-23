@@ -1,0 +1,47 @@
+body{
+    color: #65b0ff;
+    text-align:center;
+    font-family: "Orbitron", sans-serif;
+    margin: 0;
+}   
+
+#hero{ 
+    background-image: url("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3M3M2x3OWQ4a213aGN2YjZ6OWw3NTFyYXYzYzdqNjY0YTRsaXJzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif");
+    background-size: cover;
+    padding: 10px 0 400px 20px;
+}
+
+#btn1{
+    font-weight: bold;
+    color: #65b0ff;
+    border: 1px outset;
+    padding: 6px 10px;
+    background: white;
+    font-family: "Orbitron", sans-serif;
+}
+
+.orbitron-space {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .underline {
+    border-bottom: 4px solid white;
+  }
+
+  #nasa {
+    vertical-align:-webkit-baseline-middle;
+    height: 150px;
+    width: 175px;
+    padding: 0px;
+  }
+
+  h3{ 
+    padding-top: 20px;
+  }
+
+  h1{ 
+    text-shadow: -3px 3px 4px black;
+  }
